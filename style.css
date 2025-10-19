@@ -90,7 +90,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(./assets/images/solar_map-arrow-up-bold.svg);
-    padding-left: 20px;
+    padding: 0 20px;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -103,7 +103,7 @@ select {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding-left: 20px;
+    padding: 20px 0;
 }
 
 .label {
